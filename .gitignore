@@ -1,0 +1,22 @@
+# Maven
+/target
+
+# Java
+*.class
+*.log
+hs_err_pid*
+replay_pid*
+
+# VS Code
+.vscode/*
+!.vscode/extensions.json
+.history/
+
+# Environment variables
+.env
+.env.*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
